@@ -4,7 +4,7 @@
 
     <groupId>com.brihaspathee.quotes</groupId>
     <artifactId>motivational-quotes</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Motivational-Quotes</name>
     <description>Generates automated motivational quotes</description>
@@ -27,7 +27,7 @@
         <!--        <developerConnection>scm:git:ssh://github.com:Brihaspathee/motivational-quotes.git</developerConnection>-->
         <developerConnection>scm:git:git@github.com:Brihaspathee/motivational-quotes.git</developerConnection>
         <url>scm:git:http://github.com/Brihaspathee/motivational-quotes</url>
-        <tag>1.0</tag>
+        <tag>1.0.0</tag>
     </scm>
 
     <developers>
