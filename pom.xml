@@ -7,6 +7,10 @@
     <groupId>com.brihaspathee.quotes</groupId>
     <artifactId>motivational-quotes</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>Motivational-Quotes</name>
+    <description>Generates automated motivational quotes</description>
+    <url>http://www.brihaspathee.com</url>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -21,10 +25,10 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git://github.com/Brihaspathee/arithmetic.git</connection>
-        <!--        <developerConnection>scm:git:ssh://github.com:Brihaspathee/arithmetic.git</developerConnection>-->
-        <developerConnection>scm:git:git@github.com:Brihaspathee/arithmetic.git</developerConnection>
-        <url>scm:git:http://github.com/Brihaspathee/arithmetic</url>
+        <connection>scm:git:git://github.com/Brihaspathee/motivational-quotes.git</connection>
+        <!--        <developerConnection>scm:git:ssh://github.com:Brihaspathee/motivational-quotes.git</developerConnection>-->
+        <developerConnection>scm:git:git@github.com:Brihaspathee/motivational-quotes.git</developerConnection>
+        <url>scm:git:http://github.com/Brihaspathee/motivational-quotes</url>
         <tag>1.0.0</tag>
     </scm>
 
